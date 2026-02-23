@@ -4,14 +4,14 @@ A collection of classic retro arcade games recreated in modern TypeScript with C
 
 ## Games
 
-| Game | Year | Developer | Repo | Description |
-|------|------|-----------|------|-------------|
-| [Pac-Man](https://github.com/mmackelprang/PacMan) | 1980 | Namco | [PacMan](https://github.com/mmackelprang/PacMan) | The original maze chase game |
-| [Asteroids](https://github.com/mmackelprang/Asteroids) | 1979 | Atari | [Asteroids](https://github.com/mmackelprang/Asteroids) | Vector space shooter with Newtonian physics |
-| [Tempest](https://github.com/mmackelprang/Tempest) | 1981 | Atari | [Tempest](https://github.com/mmackelprang/Tempest) | Vector tube shooter with rotary controls |
-| [Battlezone](https://github.com/mmackelprang/Battlezone) | 1980 | Atari | [Battlezone](https://github.com/mmackelprang/Battlezone) | First-person wireframe tank combat |
-| [Defender](https://github.com/mmackelprang/Defender) | 1981 | Williams | [Defender](https://github.com/mmackelprang/Defender) | Side-scrolling space shooter with humanoid rescue |
-| [Night Driver](https://github.com/mmackelprang/NightDriver) | 1976 | Atari | [NightDriver](https://github.com/mmackelprang/NightDriver) | First-person night racing |
+| Game | Year | Developer | Repo | Status | Description |
+|------|------|-----------|------|--------|-------------|
+| [Pac-Man](https://github.com/mmackelprang/PacMan) | 1980 | Namco | [PacMan](https://github.com/mmackelprang/PacMan) | Complete | The original maze chase game |
+| [Tempest](https://github.com/mmackelprang/Tempest) | 1981 | Atari | [Tempest](https://github.com/mmackelprang/Tempest) | Complete | Vector tube shooter with 16 tube shapes |
+| [Asteroids](https://github.com/mmackelprang/Asteroids) | 1979 | Atari | [Asteroids](https://github.com/mmackelprang/Asteroids) | Scaffolded | Vector space shooter with Newtonian physics |
+| [Battlezone](https://github.com/mmackelprang/Battlezone) | 1980 | Atari | [Battlezone](https://github.com/mmackelprang/Battlezone) | Scaffolded | First-person wireframe tank combat |
+| [Defender](https://github.com/mmackelprang/Defender) | 1981 | Williams | [Defender](https://github.com/mmackelprang/Defender) | Scaffolded | Side-scrolling space shooter with humanoid rescue |
+| [Night Driver](https://github.com/mmackelprang/NightDriver) | 1976 | Atari | [NightDriver](https://github.com/mmackelprang/NightDriver) | Scaffolded | First-person night racing |
 
 ## Common Tech Stack
 
