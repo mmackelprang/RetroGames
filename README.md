@@ -11,7 +11,7 @@ A collection of classic retro arcade games recreated in modern TypeScript with C
 | [Asteroids](https://github.com/mmackelprang/Asteroids) | 1979 | Atari | [Asteroids](https://github.com/mmackelprang/Asteroids) | Complete | Vector space shooter with Newtonian physics |
 | [Battlezone](https://github.com/mmackelprang/Battlezone) | 1980 | Atari | [Battlezone](https://github.com/mmackelprang/Battlezone) | Complete | First-person wireframe tank combat |
 | [Defender](https://github.com/mmackelprang/Defender) | 1981 | Williams | [Defender](https://github.com/mmackelprang/Defender) | Complete | Side-scrolling space shooter with humanoid rescue |
-| [Night Driver](https://github.com/mmackelprang/NightDriver) | 1976 | Atari | [NightDriver](https://github.com/mmackelprang/NightDriver) | Scaffolded | First-person night racing |
+| [Night Driver](https://github.com/mmackelprang/NightDriver) | 1976 | Atari | [NightDriver](https://github.com/mmackelprang/NightDriver) | Complete | First-person night racing with pseudo-3D road |
 
 ## Common Tech Stack
 
